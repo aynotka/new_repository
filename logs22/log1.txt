@@ -1,6 +1,0 @@
-log log log 42
-52
-hello
-d
-s
-fd
